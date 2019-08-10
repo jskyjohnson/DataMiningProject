@@ -1,0 +1,17 @@
+Trends in Seattle Library USage
+
+By
+Sky Johnson
+Taylore Prinsen
+Peter Minwegen
+
+The Seattle Public Library is a landmark of the city for it's architectural style, and unique community gatherings. However we wanted to look further into it's functions as an actual library This study was an attempt to extend research on checkout trends through the year of the publicly available Seattle Library system. We sought to find out if there was any noticeable correlation between certain weather patterns, and library usage.
+
+We wanted to see if there was a correlation between number of library checkout users, and current weather 
+
+We looked to see if the rate at which assets within the library were checked out at were influenced by average temperature, rain and precipitation, wind, and visibility. We found that there was no noticeable change or correlation between these and asset usage.
+
+Video: https://github.com/nullmage/DataMiningProject/blob/master/Group3_TrendsInLibraryUsage_Part6.mp4
+Paper ://github.com/nullmage/DataMiningProject/blob/master/Group3_TrendsInLibraryUsage_Part4.pdf
+
+e_fif = We believe this graph to be of extreme importance because we believe it to be one of the main driving forces in the reduction of checkouts since the year 2009. An E-book reader is a version of a tablet that is limited to E-books. An E-book reader allows a user to rent or purchase text from the comfort of their home rather than the local library. 
